@@ -1,4 +1,14 @@
 {
+  "name": "fitchef",
+  "version": "1.0.0",
+  "homepage": "https://empreendendosucesso.github.io/FitChef",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    ...
+  }
+}
+{
   "name": "fitchef-da-nutri",
   "private": true,
   "version": "0.0.0",
